@@ -1,14 +1,6 @@
 # ProctorLess
 *Changing the way teachers take examinations* 
 
-## Team Name
-**TensorGANs** 
-
-## Team Members
-- Aarushi Dua
-- Aaryan Arora 
-- Abhisht Dixit
-- Rishit Toteja 
 
 ## Introduction
 With the onset of COVID-19, students and teachers across the globe were forced to shift to online teaching. The lectures started being held over google meet or a zoom call, however, none of these software had a solution for proctoring online examinations. Human proctors were not able to check each student carefully, and thus it led to massive cheating and copying in online exams.
@@ -60,12 +52,6 @@ Apart from removing the burden from the shoulders of teachers, proctoring would 
 5. **Speech Recognition Surveillance**: It recognises any speech around the student and checks it for keywords in the question paper to detect asking of questions.
 6. **Headphone Detection**: It detects whether the person is wearing a headphone or not to check for attempts to get answers using hidden audio devices.
 7. **Eye Tracking**: It tracks the eyes of the student while he/she is giving the examination. It takes a log of repeated attempts of viewing in other directions.
-
-## Website Features:
-1. **Tab Switch Detection**
-2. **Copy Pasting Detection**
-3. **Warning System**
-4. **Easy to use**
 
 ## Some special features:
 1. **Parallel Processing**: We are using different models which will run on multiple threads of the server to optimise for higher efficiency, lower latency, improved accuracy and reduced resource requirements.
